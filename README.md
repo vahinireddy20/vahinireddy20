@@ -1,5 +1,5 @@
 # About Me:
-•I’m currently working on backend development by exploring multiple third-party endpoints.<br>• Looking to collaborate on Projects that utilize free APIs to build creative server-side tools.
+• I’m currently working on backend development by exploring multiple third-party endpoints.<br>• Looking to collaborate on Projects that utilize free APIs to build creative server-side tools.
 
 
 ## 🌐 Socials:
