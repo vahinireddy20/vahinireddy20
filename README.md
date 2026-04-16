@@ -1,5 +1,5 @@
 # About Me:
-•🔭 I’m currently working on Learning backend development by exploring multiple third-party endpoints.<br>• 👯 I’m looking to collaborate on Projects that utilize free APIs to build creative server-side tools.<br>• 🤝 I’m looking for help with Identifying high-quality free endpoints and improving my data fetching logic.<br>• 🌱 I’m currently learning How to integrate various external services into a cohesive backend system.<br>• 💬 Ask me about Node.js, API integration, or finding the best free developer resources.
+•I’m currently working on backend development by exploring multiple third-party endpoints.<br>• Looking to collaborate on Projects that utilize free APIs to build creative server-side tools.
 
 
 ## 🌐 Socials:
